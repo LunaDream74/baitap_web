@@ -85,15 +85,15 @@ function Contact() {
 
         <aside className="contact-info" aria-hidden="true">
           <div className="info-row" id="Email">
-            <strong>Email:</strong>
+            <strong>Email: </strong>
             <a href="mailto:22130103@student.hcmus.edu.vn">22130103@student.hcmus.edu.vn</a>
           </div>
           <div className="info-row" id="Location">
-            <strong>Location</strong>
+            <strong>Location </strong>
             <span>Ho Chi Minh City, Vietnam</span>
           </div>
           <div className="info-row" id="Availability">
-            <strong>Availability</strong>
+            <strong>Availability </strong>
             <span>Open to new opportunities</span>
           </div>
         </aside>
